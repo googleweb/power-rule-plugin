@@ -1,6 +1,6 @@
 # power-rule-plugin
 
-### A plugin for the [plugin-power](https://github.com/ja-netfilter/plugin-power) plugin
+### A plugin for the [plugin-power](https://gitee.com/ja-netfilter/plugin-power) plugin
 
 ### Generate result replcae rule for plugin-power
 
