@@ -11,6 +11,7 @@ public class PowerRule implements PluginEntry {
 
     public PowerRule() {
         transformers.add(new RSASignatureTransformer());
+        transformers.add(new DSASignatureTransformer());
     }
 
     @Override
